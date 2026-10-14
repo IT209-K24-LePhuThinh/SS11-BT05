@@ -151,4 +151,4 @@ Job docker-build chuyển trạng thái Skipped do ràng buộc `needs: test` kh
 
 ## 6. Ảnh chụp màn hình
 
-![Biểu đồ Workflow hiển thị sơ đồ 2 Job nối qua needs](images/actions-workflow-graph.png)
+![Biểu đồ Workflow hiển thị sơ đồ 2 Job nối qua needs](image.png)
