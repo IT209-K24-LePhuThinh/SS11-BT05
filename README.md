@@ -148,3 +148,7 @@ BUILD FAILED in 26s
 ```
 
 Job docker-build chuyển trạng thái Skipped do ràng buộc `needs: test` không được thỏa mãn.
+
+## 6. Ảnh chụp màn hình
+
+![Biểu đồ Workflow hiển thị sơ đồ 2 Job nối qua needs](images/actions-workflow-graph.png)
